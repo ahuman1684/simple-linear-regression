@@ -59,7 +59,3 @@ The `Extended_Salary_Data.csv` file contains the following columns:
 - Extend the model to include multiple linear regression with additional features.
 - Apply feature scaling to optimize model performance.
 - Test the model with different datasets to validate its robustness.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
